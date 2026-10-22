@@ -13,6 +13,8 @@ Use it as an **APA citation generator** or **MLA citation generator**: create a 
 
 **[Try the live demo →](https://plagiarismcheckerx.github.io/plagx-cite/)**
 
+Developer downloads: [npm](https://www.npmjs.com/package/plagx-cite) · [PyPI](https://pypi.org/project/plagx-cite/) · [Maven Central](https://central.sonatype.com/artifact/io.github.plagiarismcheckerx/plagx-cite) · [NuGet](https://www.nuget.org/packages/Plagx.Cite) · [GitHub](https://github.com/plagiarismcheckerx/plagx-cite)
+
 Need a quick citation online? Use the [free citation generator](https://plagiarismcheckerx.com/citation-generator?utm_source=plagx-cite-dart&utm_medium=readme&utm_campaign=plagx&utm_content=citation-generator).
 
 > Plagx Cite is a free academic writing utility by Plagiarism Checker X. It is a citation generator that builds and checks APA and MLA reference lists. Plagiarism checking and AI-generated text detection are available in Plagiarism Checker X, linked at the end of this page.
